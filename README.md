@@ -36,3 +36,7 @@ The Hugging Face text-to-text pipeline allows you to use pre-trained models for 
 ## 📊 Expected Output from the Gradio Interface
 
 When you input text and select a language (English or Arabic), the Gradio interface will display the recognized named entities. The application will highlight these entities in the output text, showing their types (such as PERSON, ORGANIZATION, and LOCATION) alongside the original input.
+
+## 🎥 Explainer Video
+
+You can view the video here: [Project Video](<https://drive.google.com/file/d/1KyBjZE9bNuB5K5WEVYVehS_zVDVbatH-/view?usp=sharing>).
